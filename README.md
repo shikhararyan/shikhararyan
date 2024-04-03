@@ -1,7 +1,7 @@
 # 🚀 Shikhar Aryan
 
 ## 📞 Contact Information
-- **Address:** 115, Shakti Khand 4, Indirapuram, Ghaziabad, 201014
+- **Address:** Indirapuram, Ghaziabad, 201014
 - **Phone:** +91 8619425429
 - **Email:** Shikhararyan0@gmail.com
 - **LinkedIn:** [linkedin.com/in/Shikhararyan](linkedin.com/in/Shikhararyan)
