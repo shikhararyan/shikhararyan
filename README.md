@@ -4,7 +4,7 @@
 - **Address:** Indirapuram, Ghaziabad, 201014
 - **Email:** Shikhararyan0@gmail.com
 - **LinkedIn:** [linkedin.com/in/Shikhararyan](linkedin.com/in/Shikhararyan)
-- **Kaggle:** [kaggle.com/shikhararyan](kaggle.com/shikhararyan)
+- **Kaggle:** [kaggle.com/shikhararyan](https://www.kaggle.com/shikhararyan)
 
 ## 🎓 Education
 - **Bachelor of Technology in Information Technology**
