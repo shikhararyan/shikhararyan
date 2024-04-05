@@ -3,7 +3,7 @@
 ## 📞 Contact Information
 - **Address:** Indirapuram, Ghaziabad, 201014
 - **Email:** Shikhararyan0@gmail.com
-- **LinkedIn:** [🧲](https://www.linkedin.com/in/Shikhararyan)
+- **LinkedIn:** [🧲](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
 - **Kaggle:** [🧲](https://www.kaggle.com/shikhararyan)
 
 ## 🎓 Education
