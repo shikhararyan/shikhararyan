@@ -23,6 +23,13 @@
 
 ## 💼 Experience
 
+### Techoon IT Solutions
+**AI/ML Developer Intern** ✨
+Noida, UP | April 2024 – Current
+- Developing Chatbots and application using Custom data - Langchain, RAG & LLMs
+- Analyzing Datasets and Building ML/DL Models
+- Working on Generative AI Projects 
+
 ### Quaintel Research
 **Research Analyst** 📊
 Bangalore, KA - Remote | May 2023 – Current
