@@ -24,7 +24,7 @@
 ## 💼 Experience
 
 ### Techoon IT Solutions
-**AI/ML Developer Intern** ✨
+**AI/ML Developer ** ✨
 Noida, UP | April 2024 – Current
 - Developing Chatbots and application using Custom data - Langchain, RAG & LLMs
 - Analyzing Datasets and Building ML/DL Models
