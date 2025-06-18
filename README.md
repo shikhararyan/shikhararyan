@@ -24,7 +24,7 @@
 ## 💼 Experience
 
 ### letsAI Solutions
-**AI/ML Developer ** ✨
+**AI/ML Developer** ✨
 Noida, UP | March 2025 - present
 - Developing Multiagent systems using langgrapgh, Crewai
 - Fine-tuning SLMs, LLMs, and evaluation of these models
@@ -32,7 +32,7 @@ Noida, UP | March 2025 - present
 - leveraging potential of LLMs and converting it into smart solution providing applications
 
 ### Techoon IT Solutions
-**AI/ML Developer ** ✨
+**AI/ML Developer** ✨
 Noida, UP | April 2024 – Feb 2025
 - Developing Chatbots and application using Custom data - Langchain, RAG & LLMs
 - Analyzing Datasets and Building ML/DL Models
