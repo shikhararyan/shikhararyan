@@ -1,11 +1,11 @@
-# 👋 Hi there! I'm Shikhar Aryan
+# 👋 Hi, I'm Shikhar Aryan
 
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=shikhararyan&color=brightgreen&style=flat-square)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-orange?style=flat-square&logo=kaggle)](https://www.kaggle.com/shikhararyan)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:Shikhararyan0@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
+  [![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=flat-square&logo=medium)](https://medium.com/@shikhararyan)
+  [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/shikhararyan)
   
 </div>
 
@@ -13,210 +13,153 @@
 
 ## 🚀 About Me
 
-> **AI/ML Developer** passionate about transforming data into intelligent solutions
+**AI/ML Engineer building production-grade systems that solve real-world problems**
 
-I'm an experienced AI/ML Developer with expertise in building multiagent systems, fine-tuning language models, and creating innovative applications. Currently working at **letsAI Solutions**, I focus on leveraging the potential of LLMs to develop smart, solution-oriented applications.
+I specialize in taking complex technical challenges and turning them into deployed solutions that people actually use. From HIPAA-compliant healthcare AI to legal document automation, I've built systems across domains that require both technical depth and practical execution.
 
-📍 **Location:** Indirapuram, Ghaziabad, 201014  
-📧 **Email:** [Shikhararyan0@gmail.com](mailto:Shikhararyan0@gmail.com)
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-graph LR
-    A[Multiagent Systems] --> B[LangGraph & CrewAI]
-    C[Model Fine-tuning] --> D[SLMs & LLMs]
-    E[AI Applications] --> F[Smart Solutions]
-    G[Generative AI] --> H[RAG & Chatbots]
-```
+📍 **Location:** Ghaziabad, India  
+💼 **Current:** AI Engineer @ LetsAI Solutions  
+✍️ **Writer:** 10,000+ views on Medium covering production AI systems
 
 ---
 
-## 🎓 Education
+## 💡 What I Actually Build
 
-<table>
-<tr>
-<td>
-  
-**🏛️ Bachelor of Technology in Information Technology**  
-*JSS Academy of Technical Education, U.P.*  
-📅 Aug 2019 – May 2023
+### 🏥 **Healthcare AI with Regulatory Compliance**
+Built HIPAA-compliant medical AI system using **Graph RAG** architecture with automated PII anonymization. Integrated BioBERT for medical entity recognition and intelligent patient-doctor matching based on symptom classification.
 
-</td>
-</tr>
-</table>
+**Tech:** Graph RAG, BioBERT, NER, HIPAA compliance, Multi-document processing
 
-### 📚 Relevant Coursework
-<div align="center">
+### ⚖️ **Legal Document Automation at Scale**
+Engineered system generating 150+ page immigration petitions in 45 minutes (vs. 50+ hours manually). Fine-tuned Llama 3.1 8B on 6,500+ curated examples using QLoRA, achieving 91% accuracy on gap detection vs. expert attorneys.
 
-| Core Subjects | Specialization |
-|:-------------:|:--------------:|
-| Data Structures | Machine Learning |
-| Database Management | Deep Learning |
-| Artificial Intelligence | Natural Language Processing |
-| Data Analysis | Data Visualization |
+**Tech:** LangGraph, QLoRA fine-tuning, Gemini 2.5 (data curation), ChromaDB, Long-context generation
 
-</div>
+### 🎓 **Multimodal Educational AI (10K+ Users)**
+First production implementation of Azure SQL vector search in India. Built multimodal RAG system integrating images and videos into AI tutoring sessions, achieving 99.7% uptime for 10,000+ students.
+
+**Tech:** Azure SQL Vector (pioneer), Multimodal RAG, Smart media indexing, Production deployment
 
 ---
 
-## 💼 Professional Experience
-
-### 🔥 **letsAI Solutions** | *AI/ML Developer*
-`March 2025 - Present` | Noida, UP
-
-<details>
-<summary>🎯 Key Responsibilities</summary>
-
-- 🤖 Developing sophisticated **Multiagent systems** using LangGraph and CrewAI
-- 🔧 **Fine-tuning SLMs and LLMs** with comprehensive model evaluation
-- 🌐 Working on **diverse projects** across multiple domains
-- 💡 Converting LLM potential into **smart solution-providing applications**
-
-</details>
-
----
-
-### 🌟 **Techoon IT Solutions** | *AI/ML Developer*
-`April 2024 – Feb 2025` | Noida, UP
-
-<details>
-<summary>🎯 Key Achievements</summary>
-
-- 💬 Built advanced **Chatbots** using custom data with Langchain, RAG & LLMs
-- 📊 Performed comprehensive **dataset analysis** and ML/DL model development
-- 🚀 Led multiple **Generative AI projects** from conception to deployment
-
-</details>
-
----
-
-### 📈 **Quaintel Research** | *Research Analyst*
-`May 2023 – Current` | Bangalore, KA (Remote)
-
-<details>
-<summary>🎯 Key Contributions</summary>
-
-- 🔍 Conducted in-depth **market research** and trend analysis
-- 📊 Leveraged **Excel, Google Analytics, and OpenAI** for data insights
-- 📋 Delivered actionable market intelligence reports
-
-</details>
-
----
-
-### 🤖 **Kaholas** | *NLP Engineer Intern*
-`Nov 2022 – Feb 2023` | Delhi, DL
-
-<details>
-<summary>🎯 Technical Achievements</summary>
-
-- ⚡ Implemented **NLP algorithms** for text classification and sentiment analysis
-- 🤝 Collaborated with development teams to **reduce project timelines**
-- 🔧 Optimized model performance and accuracy
-
-</details>
-
----
-
-### 📊 **Maxgen Technologies** | *Data Analyst Intern*
-`Apr 2022 – Jul 2022` | Remote, DL
-
-<details>
-<summary>🎯 Data Excellence</summary>
-
-- 🐍 Built **predictive models** using Python
-- 📈 Created **interactive PowerBI dashboards**
-- 📊 Performed comprehensive data analysis and visualization
-
-</details>
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/R-Advanced-blue?style=for-the-badge&logo=r)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge&logo=postgresql)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-blue?style=for-the-badge&logo=php)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-Advanced-blue?style=for-the-badge&logo=html5)
-
-### 🔧 Developer Tools
-![VS Code](https://img.shields.io/badge/VS_Code-Expert-green?style=for-the-badge&logo=visualstudiocode)
-![Anaconda](https://img.shields.io/badge/Anaconda-Expert-green?style=for-the-badge&logo=anaconda)
-![Jupyter](https://img.shields.io/badge/Jupyter-Expert-green?style=for-the-badge&logo=jupyter)
-![GCP](https://img.shields.io/badge/Google_Cloud-Advanced-green?style=for-the-badge&logo=googlecloud)
-![Apache Hadoop](https://img.shields.io/badge/Hadoop-Intermediate-green?style=for-the-badge&logo=apachehadoop)
-![KNIME](https://img.shields.io/badge/KNIME-Advanced-green?style=for-the-badge&logo=knime)
-
-### ☁️ Technologies & Frameworks
-![AWS](https://img.shields.io/badge/AWS-Advanced-orange?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Intermediate-orange?style=for-the-badge&logo=microsoftazure)
-![Linux](https://img.shields.io/badge/Linux-Advanced-orange?style=for-the-badge&logo=linux)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-orange?style=for-the-badge&logo=github)
-![Amazon ML](https://img.shields.io/badge/Amazon_ML-Advanced-orange?style=for-the-badge&logo=amazonaws)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikhararyan&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhararyan&layout=compact&theme=radical)
-  
-</div>
-
----
-
-## 🎯 What I'm Up To
+## 🛠️ Technical Expertise
 
 ```python
-class ShikharAryan:
-    def __init__(self):
-        self.name = "Shikhar Aryan"
-        self.role = "AI/ML Developer"
-        self.current_focus = ["Multiagent Systems", "LLM Fine-tuning", "Generative AI"]
-        self.learning = ["Advanced NLP", "MLOps", "AI Safety"]
-        
-    def get_current_work(self):
-        return {
-            "company": "letsAI Solutions",
-            "projects": ["LangGraph Systems", "Model Evaluation", "Smart Applications"],
-            "technologies": ["Python", "LangChain", "CrewAI", "RAG"]
-        }
-        
-    def connect_with_me(self):
-        return {
-            "linkedin": "https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/",
-            "kaggle": "https://www.kaggle.com/shikhararyan",
-            "email": "Shikhararyan0@gmail.com"
-        }
+expertise = {
+    "advanced_architectures": ["Graph RAG", "Multimodal RAG", "Long-context generation (150+ pages)"],
+    "fine_tuning": ["QLoRA", "Dataset curation (6,500+ examples)", "Model evaluation"],
+    "production_systems": ["99.7% uptime", "10K+ users", "HIPAA compliance"],
+    "specialized_domains": ["Healthcare (BioBERT)", "Legal AI", "Education"],
+    "multi_agent": ["LangGraph", "CrewAI", "Complex orchestration"],
+    "vector_dbs": ["Azure SQL Vector", "ChromaDB", "Pinecone", "MongoDB Atlas"],
+    "llms": ["GPT-4o/o1", "Claude", "Llama 3.1", "Gemini 2.5"]
+}
 ```
+
+### Core Stack
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Production-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Advanced-1C3C3C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Cloud & Databases
+![Azure](https://img.shields.io/badge/Azure-SQL_Vector-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Production-FF6B6B?style=for-the-badge)
 
 ---
 
-## 🤝 Let's Connect!
+## 📝 Recent Technical Writing
+
+I write about production AI systems, not just tutorials. [10,000+ readers on Medium](https://medium.com/@shikhararyan)
+
+- **["The Evolution of LLM Inference: Arctic Inference Revolution"](https://medium.com/@shikhararyan)** (Feb 2025)
+- **["Fine Tuning LLM Guide: From Dataset Curation to Production"](https://medium.com/@shikhararyan)** (Feb 2025)
+- **["Azure SQL for Vector Databases: Revolutionizing RAG"](https://medium.com/@shikhararyan)** (Nov 2024)
+- **["Building Image Vector Stores for Multimodal RAG"](https://medium.com/@shikhararyan)** (Oct 2024)
+
+---
+
+## 🎯 Featured Projects
+
+### [Legal Petition Gap Analysis](https://github.com/shikhararyan)
+Fine-tuned model on 6,500+ denied petitions achieving 91% accuracy in identifying gaps that lead to RFEs. Automated data curation pipeline using Gemini 2.5.
+
+**Impact:** 98% time reduction in petition review (50 hrs → 45 min)
+
+### [HIPAA-Compliant Medical RAG](https://github.com/shikhararyan) 
+Graph RAG system with automated PII anonymization for healthcare deployment. Uses BioBERT for medical entity recognition.
+
+**Impact:** HIPAA-certified deployment for hospital chain
+
+### [Multimodal Educational AI](https://github.com/shikhararyan)
+Azure SQL vector search implementation integrating images and videos into tutoring sessions. First production deployment in India.
+
+**Impact:** 10,000+ students, 99.7% uptime
+
+### [Sentiment Analysis - Fine-Tuned BERT](https://huggingface.co/shikhararyan)
+Multi-class sentiment classifier achieving 91% accuracy. Deployed on HuggingFace Hub.
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikhararyan&show_icons=true&theme=tokyonight&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhararyan&layout=compact&theme=tokyonight&hide_border=true)
+  
+</div>
+
+---
+
+## 🎓 Background
+
+**B.Tech in Information Technology** | JSS Academy of Technical Education (2019-2023)
+
+**Career Trajectory:**
+- **2025-Present:** AI Engineer @ LetsAI Solutions - Legal document automation, fine-tuning
+- **2024-2025:** AI/ML Engineer @ Techoon Solutions - Healthcare AI, educational platforms
+- **2023:** Research Analyst @ Quaintel Research - Market intelligence, data pipelines
+
+---
+
+## 💬 What I'm Known For
+
+✅ **Building complete systems**, not just prototypes  
+✅ **Production deployments** with real users (10K+)  
+✅ **Advanced RAG architectures** (Graph, Multimodal, Long-context)  
+✅ **Fine-tuning expertise** with custom dataset curation  
+✅ **Working in regulated domains** (HIPAA, legal)  
+✅ **Technical writing** that explains complex systems clearly
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+- Production AI systems and architecture decisions
+- Fine-tuning strategies and dataset curation
+- RAG optimization (especially Graph RAG and multimodal)
+- Deploying AI in regulated domains (healthcare, legal)
+- MLOps and maintaining 99.7% uptime
 
 <div align="center">
 
-**I'm always excited to collaborate on innovative AI/ML projects!**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Data_Science_Community-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shikhararyan)
+[![Medium](https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shikhararyan)
 [![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shikhararyan0@gmail.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/shikhararyan)
 
 ---
 
-⭐ **If you find my work interesting, don't forget to star my repositories!**
+**⭐ If you find my work valuable, star the repositories you find interesting!**
 
+</div>
+
+---
+
+<div align="center">
+  <i>Building AI systems that work in production, not just in demos.</i>
 </div>
