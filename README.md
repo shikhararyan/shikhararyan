@@ -19,7 +19,7 @@ I specialize in taking complex technical challenges and turning them into deploy
 
 📍 **Location:** Ghaziabad, India  
 💼 **Current:** AI Engineer @ LetsAI Solutions  
-✍️ **Writer:** 10,000+ views on Medium covering production AI systems
+✍️ **Writer:** 12,000+ views on Medium covering production AI systems
 
 ---
 
