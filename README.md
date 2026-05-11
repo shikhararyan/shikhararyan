@@ -19,26 +19,6 @@
 
 # 🚀 About Me
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Shikhar Aryan
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Generative+AI+Specialist;Building+Production-Grade+AI+Systems;Graph+RAG+%7C+Fine-Tuning+%7C+Multimodal+AI;LLMs+%7C+Healthcare+AI+%7C+Legal+Automation" />
-</p>
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=shikhararyan&style=for-the-badge&color=blueviolet)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@shikhararyan)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/shikhararyan)
-
-</div>
-
----
-
-# 🚀 About Me
-
 ```python
 class ShikharAryan:
 
