@@ -1,4 +1,4 @@
-````md id="j8n4e2"
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Shikhar Aryan
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 # 🚀 About Me
 
-```python
+python
 class ShikharAryan:
 
     def __init__(self):
@@ -42,7 +42,7 @@ class ShikharAryan:
         self.languages = ["Python", "SQL", "JavaScript"]
         self.frameworks = ["PyTorch", "LangChain", "LangGraph", "FastAPI"]
         self.vector_dbs = ["ChromaDB", "Pinecone", "Azure SQL Vector"]
-````
+
 
 📍 **Location:** Ghaziabad, India
 💼 **Current Role:** AI Engineer @ LetsAI Solutions
@@ -287,4 +287,4 @@ JSS Academy of Technical Education
 ### ⭐ Building AI systems that work in production, not just demos.
 
 </div>
-```
+
