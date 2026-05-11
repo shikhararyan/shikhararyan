@@ -1,224 +1,242 @@
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Shikhar Aryan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Generative+AI+Specialist;Building+Production-Grade+AI+Systems;Graph+RAG+%7C+Fine-Tuning+%7C+Multimodal+AI;LLMs+%7C+Healthcare+AI+%7C+Legal+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1200&lines=AI+Engineer+%7C+Production+Systems;Graph+RAG+%7C+Fine-Tuning+%7C+Agentic+AI;99.7%25+Uptime+%7C+10K%2B+Users;Building+AI+That+Ships" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shikhararyan&style=flat-square&color=00D9FF" alt="Profile Views">
 </p>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=shikhararyan&style=for-the-badge&color=blueviolet)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
-[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@shikhararyan)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/shikhararyan)
+**[LinkedIn](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/) • [Medium](https://medium.com/@shikhararyan) • [HuggingFace](https://huggingface.co/shikhararyan) • [Email](mailto:Shikhararyan0@gmail.com)**
 
 </div>
 
 ---
 
-# 🚀 About Me
+## ⚡ The Numbers
 
-```python
-class ShikharAryan:
+<div align="center">
 
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.specialization = [
-            "Generative AI",
-            "Graph RAG",
-            "Multimodal AI",
-            "Fine-Tuning",
-            "Production AI Systems"
-        ]
+| Metric | Achievement |
+|:------:|:------------|
+| **99.9%** | Cost Reduction |
+| **98%** | Time Saved |
+| **10K+** | Users Live |
+| **91%** | Model Accuracy |
+| **2.5+** | Years Production AI |
 
-        self.current_focus = [
-            "Long-context LLM systems",
-            "AI agents",
-            "Healthcare AI",
-            "Legal AI automation"
-        ]
+</div>
 
-        self.languages = ["Python", "SQL", "JavaScript"]
-        self.frameworks = ["PyTorch", "LangChain", "LangGraph", "FastAPI"]
-        self.vector_dbs = ["ChromaDB", "Pinecone", "Azure SQL Vector"]
+---
+
+## 🎯 Quick Snapshot
+
+```
+Production AI/ML Engineer | 2.5+ years
+├── Healthcare AI (HIPAA)
+├── Legal Automation (91% accuracy)
+├── Educational AI (99.7% uptime, 10K+ users)
+└── Currently @ LetsAI Solutions
 ```
 
-📍 **Location:** Ghaziabad, India
-💼 **Current Role:** AI Engineer @ LetsAI Solutions
-🧠 **Domains:** Healthcare AI, Legal AI, Educational AI
-✍️ **Technical Writer:** 12,000+ views on Medium
-
 ---
 
-# 🧠 What I Build
-
-## 🏥 Healthcare AI Systems
-
-* HIPAA-compliant Graph RAG systems
-* Automated PII anonymization
-* BioBERT-powered medical entity extraction
-* Intelligent patient-doctor matching
-
-### Stack
-
-`Graph RAG` • `BioBERT` • `NER` • `HIPAA` • `Medical AI`
-
----
-
-## ⚖️ Legal AI Automation
-
-Built systems generating 150+ page immigration petitions in 45 minutes instead of 50+ hours manually.
-
-### Achievements
-
-* Fine-tuned Llama 3.1 8B using QLoRA
-* Trained on 6,500+ curated legal examples
-* Achieved 91% gap detection accuracy
-
-### Stack
-
-`LangGraph` • `QLoRA` • `Llama 3.1` • `Gemini 2.5` • `ChromaDB`
-
----
-
-## 🎓 Educational AI Platform
-
-Built multimodal tutoring systems for 10K+ students with 99.7% uptime.
-
-### Features
-
-* Azure SQL Vector Search
-* Image & video integrated tutoring
-* Multimodal RAG
-* Production-grade deployment
-
----
-
-# ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## Languages
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### AI/ML Core
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=python&logoColor=white)
 
-## AI / ML
+### RAG & Vector DBs
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![Azure SQL Vector](https://img.shields.io/badge/Azure%20SQL%20Vector-0078D4?style=flat-square&logo=microsoftazure)
+![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+### LLMs & APIs
+![GPT-4](https://img.shields.io/badge/GPT--4-00A67E?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-00D9FF?style=flat-square)
+![Llama](https://img.shields.io/badge/Llama-FF6B6B?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-## Databases & Vector Stores
+### Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google&logoColor=white)
 
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL_Vector-0078D4?style=for-the-badge\&logo=microsoftazure)
-
-## DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+### Specializations
+![Graph RAG](https://img.shields.io/badge/Graph%20RAG-FF6B9D?style=flat-square)
+![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-9C27B0?style=flat-square)
+![Fine--Tuning](https://img.shields.io/badge/Fine--Tuning-FFC107?style=flat-square)
+![QLoRA](https://img.shields.io/badge/QLoRA-E91E63?style=flat-square)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent-00BCD4?style=flat-square)
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shikhararyan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhararyan&layout=compact&langs_count=10&theme=radical&hide_border=true&count_private=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shikhararyan&theme=github-dark&hide_border=true&area=true&color=00D9FF&point=00FF00&line=00D9FF&title_color=00D9FF"/>
 
 </div>
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shikhararyan&theme=react-dark&hide_border=true&area=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shikhararyan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&icon_color=00D9FF&text_color=ffffff&title_color=00D9FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhararyan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D9FF&hide=jupyter%20notebook"/>
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhararyan&theme=radical&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhararyan&theme=dark&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=00D9FF&currStreakLabel=00D9FF&dates=ffffff"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shikhararyan&theme=radical"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shikhararyan&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shikhararyan&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shikhararyan&theme=dark_dimmed&no-frame=true&margin-w=5&column=7&row=1"/>
 
 </div>
 
 ---
 
-# 📝 Technical Writing
+## 🚀 What I Ship
 
-## Medium Articles
+<table>
+<tr>
+<td width="50%">
 
-* 🚀 The Evolution of LLM Inference
-* 🧠 Fine-Tuning LLMs for Production
-* ⚡ Azure SQL for Vector Search
-* 📸 Building Image Vector Stores for Multimodal RAG
+### ⚖️ Legal Automation
+- 150+ page documents in 45min
+- Fine-tuned on 6.5K+ cases
+- **91% accuracy** gap detection
 
-📖 Read more:
-👉 https://medium.com/@shikhararyan
+</td>
+<td width="50%">
 
----
+### 🏥 Healthcare AI
+- HIPAA-compliant systems
+- Graph RAG architecture
+- BioBERT medical NER
 
-# 🌟 Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## ⚖️ Legal Petition Gap Analysis
+### 🎓 Educational AI
+- 10K+ users, 99.7% uptime
+- Multimodal RAG
+- Azure SQL Vector (Pioneer)
 
-Fine-tuned model trained on denied immigration petitions.
+</td>
+<td width="50%">
 
-### Impact
+### 🎤 Voice AI Agents
+- Multi-agent orchestration
+- Vernacular language support
+- B2B automation
 
-* 91% accuracy
-* 98% reduction in review time
-
----
-
-## 🏥 HIPAA-Compliant Medical RAG
-
-Graph RAG architecture with secure healthcare deployment.
-
-### Features
-
-* PII anonymization
-* Medical NER
-* Context-aware retrieval
-
----
-
-## 🎓 Multimodal Educational AI
-
-AI tutoring platform integrating:
-
-* Images
-* Videos
-* Retrieval systems
-* Real-time tutoring
-
-### Scale
-
-* 10K+ students
-* 99.7% uptime
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 Contribution Snake
+## 📚 Latest Articles
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@shikhararyan)
+
+| Article | Views | Date |
+|---------|-------|------|
+| The Evolution of LLM Inference | 📈 Arctic Inference | Feb 2025 |
+| Fine Tuning LLM Guide | 📖 Complete Workflow | Feb 2025 |
+| Azure SQL for Vector Search | ⚡ Revolutionizing RAG | Nov 2024 |
+| Building Image Vector Stores | 📸 Multimodal RAG | Oct 2024 |
+
+**16,000+ cumulative views** across all articles
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Status | Stack | Impact |
+|---------|--------|-------|--------|
+| **Legal AI Platform** | 🚀 Production | LangGraph • QLoRA • Llama 3.1 | 98% faster |
+| **Healthcare RAG** | 🏥 Deployed | Graph RAG • BioBERT • HIPAA | Enterprise scale |
+| **Edu AI (10K users)** | 📚 Live | Azure SQL Vector • Multimodal | 99.7% uptime |
+| **Voice Agents** | 🎤 Active | Claude • Groq • Sarvam • Twilio | B2B ready |
+| **nicheprofile.io** | 💼 Live | Next.js 14 • NextAuth • Azure | Full-stack SaaS |
+| **BERT Classifier** | 🧠 HF Hub | Transformers • PyTorch | 91% accuracy |
+
+</div>
+
+---
+
+## 💡 Domain Expertise
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────┐
+│ 🎯 PRODUCTION AI ENGINEER                           │
+├─────────────────────────────────────────────────────┤
+│                                                     │
+│ ✓ RAG Architectures                                │
+│   └─ Graph RAG • Multimodal • Long-context (150+p) │
+│                                                     │
+│ ✓ LLM Engineering                                   │
+│   └─ Fine-tuning • QLoRA • Dataset Curation        │
+│                                                     │
+│ ✓ Regulated Domains                                │
+│   └─ HIPAA • Legal AI • Medical NLP                │
+│                                                     │
+│ ✓ Multi-Agent Systems                              │
+│   └─ LangGraph • CrewAI • Complex Orchestration    │
+│                                                     │
+│ ✓ Production Systems                               │
+│   └─ 99.7% Uptime • Scaling to 10K+ users         │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📈 Contribution Snake
 
 <div align="center">
 
@@ -228,55 +246,50 @@ AI tutoring platform integrating:
 
 ---
 
-# 🎓 Education
-
-🎓 **B.Tech in Information Technology**
-JSS Academy of Technical Education
-2019 — 2023
-
----
-
-# 💼 Career Timeline
-
-## 🚀 LetsAI Solutions — AI Engineer
-
-**2025 — Present**
-
-* Legal AI systems
-* Fine-tuning pipelines
-* Production deployment
-
----
-
-## 🧠 Techoon Solutions — AI/ML Engineer
-
-**2024 — 2025**
-
-* Healthcare AI
-* Educational AI
-* RAG systems
-
----
-
-## 📊 Quaintel Research — Research Analyst
-
-**2023**
-
-* Data pipelines
-* Market intelligence
-* Analytics
-
----
-
-# 🤝 Let's Connect
+## 💼 Work Experience
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
+```
+2025 — Present    │  AI Engineer @ LetsAI Solutions
+                  │  → Legal automation, fine-tuning, long-context
+                  │
+2024 — 2025       │  AI/ML Engineer @ Techoon Solutions
+                  │  → Healthcare AI, Educational AI, RAG systems
+                  │
+2023 — Present    │  AI Mentor & Educator
+                  │  → 50+ students, 1-on-1 + workshops
+                  │
+2023              │  Research Analyst @ Quaintel Research
+                  │  → Data pipelines, market intelligence
+```
 
-[![Medium](https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@shikhararyan)
+</div>
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/shikhararyan)
+---
+
+## 🎓 Education
+
+<div align="center">
+
+**B.Tech Information Technology**  
+JSS Academy of Technical Education, Uttar Pradesh  
+*Aug 2019 — May 2023*
+
+</div>
+
+---
+
+## 🔗 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shikhararyan)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/shikhararyan)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shikhararyan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shikhararyan0@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/shikhararyan)
 
 </div>
 
@@ -284,7 +297,16 @@ JSS Academy of Technical Education
 
 <div align="center">
 
-### ⭐ Building AI systems that work in production, not just demos.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+production+AI+systems+that+scale.;For+details%2C+check+out+my+resume;Always+up+for+interesting+projects." />
+
+<br>
+
+⭐ **If you find my work interesting, consider starring the repos you like!**
 
 </div>
 
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shikhararyan/shikhararyan/output/3d-contrib-graph/day.svg" width="100%">
+</p>
