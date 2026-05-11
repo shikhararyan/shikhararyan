@@ -1,339 +1,290 @@
-# 🚀 Shikhar Aryan – Production AI/ML Engineer
-
-> **Building intelligent systems that work in production, not just in demos.**
->
-> AI/ML Engineer with 2.5+ years deploying enterprise systems across healthcare, legal, and education domains. 
-> 99.7% uptime. 10,000+ users. 98% time reduction. Let's build something that matters.
-
----
-
-## ⚡ Impact Snapshot
-
-| Metric | Achievement |
-|--------|-------------|
-| **Cost Reduction** | 99.9% (Legal automation: $12.5K → $10) |
-| **Time Savings** | 98% (150+ page documents: 50hrs → 45min) |
-| **Production Scale** | 10,000+ users with 99.7% uptime |
-| **Model Accuracy** | 91% gap detection vs. expert attorneys |
-| **Experience** | 2.5+ years production AI/ML engineering |
-
----
-
-## 🎯 What I Actually Build
-
-### 🏥 **Healthcare AI with Regulatory Compliance**
-Fine-grained medical systems that don't just work—they meet HIPAA standards.
-
-- **Graph RAG Architecture** for intelligent patient-provider matching
-- **BioBERT Medical NER** for precise entity recognition  
-- **Automated PII Anonymization** ensuring compliance by design
-- **99.7% uptime** across production healthcare deployments
-
-**Tech Stack:** Graph RAG | BioBERT | NER | HIPAA Compliance | Multi-document Processing
-
----
-
-### ⚖️ **Legal Document Automation at Scale**
-Turning weeks of legal work into 45 minutes of AI-powered intelligence.
-
-- **Multi-agent LangGraph system** orchestrating evidence retrieval, citation management, and document assembly
-- **6,500+ USCIS denial cases** curated with Gemini 2.5 (500 hours → 12 hours)
-- **Fine-tuned Llama 3.1 8B** via QLoRA achieving 91% accuracy gap detection
-- **14-field structured metadata extraction** enabling 89% semantic relevance
-- **Long-context generation** maintaining coherence across 50,000+ word documents
-
-**Impact:** 98% faster (50hrs → 45min) • 99.9% cheaper ($12.5K → $10) • Enterprise deployment
-
-**Tech Stack:** LangGraph | QLoRA | Gemini 2.5 | ChromaDB | Long-context LLMs
-
----
-
-### 🎓 **Multimodal Educational AI (10K+ Users)**
-First production implementation of Azure SQL vector search in India.
-
-- **Multimodal RAG** integrating images, videos, and text for intelligent tutoring
-- **Smart media indexing** for instant retrieval in educational contexts
-- **99.7% uptime** serving 10,000+ students across Australian infrastructure
-- **35% engagement increase** via Whisper (STT) and ElevenLabs/Azure (TTS)
-
-**Tech Stack:** Azure SQL Vector | Multimodal RAG | Whisper | ElevenLabs | Production MLOps
-
----
-
-## 🛠️ Technical Expertise
-
-### **AI Architectures & RAG**
-```
-Graph RAG  •  Multimodal RAG  •  Long-Context Generation (150+ pages)
-Multi-Agent Orchestration  •  Semantic Search  •  Metadata Extraction
-```
-
-### **LLM Engineering**
-```
-Fine-Tuning (QLoRA)  •  LLM-as-Judge Evaluation  •  Dataset Curation (6.5K+ examples)
-Reasoning Models (o1)  •  Non-Reasoning Models (Sonnet, Haiku)
-Domain Adaptation  •  Long-Context Management
-```
-
-### **Production Stack**
-```
-FastAPI  •  Flask  •  Docker  •  CI/CD  •  Azure/AWS/GCP
-Load Balancing  •  Distributed Caching  •  Database Optimization
-```
-
-### **ML/NLP Foundation**
-```
-PyTorch  •  TensorFlow  •  Transformers  •  BERT  •  BioBERT
-Hugging Face  •  spaCy  •  NLTK  •  Medical NER
-```
-
-### **Vector Databases & Search**
-```
-Azure SQL Vector (Pioneer)  •  ChromaDB  •  Pinecone  •  MongoDB Atlas
-FAISS  •  Semantic Search  •  Retrieval Optimization
-```
-
-### **Multi-Agent Systems**
-```
-LangChain  •  LangGraph  •  CrewAI  •  MCP Integration
-Complex Orchestration  •  Agentic Workflows
-```
-
-### **LLM Models**
-```
-GPT-4o / o1  •  Claude (Opus, Sonnet, Haiku)  •  Llama 3.1  •  Gemini 2.5
-Domain-Specific Fine-Tuned Models
-```
-
----
-
-## 📁 Featured Projects
-
-### 🎤 [AI Voice Campaign Agent Platform](https://github.com/Shikhararyan)
-**Status:** Active Development | **Mar 2025 – Present**
-
-Autonomous voice agent system for B2B outreach. Define objectives. Let AI execute.
-
-- **Stack:** Anthropic Claude • Groq • Sarvam AI (TTS/STT) • Twilio • LangGraph
-- **Feature:** End-to-end automation from strategy formulation to outcome delivery
-- **Target:** B2B campaigns with vernacular language support for Indian markets
-- **Status:** Currently building with enterprise focus
-
----
-
-### 🧠 [Fine-Tuned BERT Sentiment Classifier](https://huggingface.co/shikhararyan)
-**Status:** Production | **Deployed on HuggingFace Hub**
-
-Multi-class sentiment analysis reaching 91% accuracy.
-
-- **Architecture:** BERT fine-tuned on curated datasets
-- **Performance:** 91% accuracy • Fast inference • Production-grade
-- **Deployment:** HuggingFace Hub with comprehensive documentation
-- **Reach:** 6,000+ Medium views on technical writeup
-
----
-
-### 🏥 [HIPAA-Compliant Medical RAG System](https://github.com/Shikhararyan)
-**Status:** Deployed | **Production Healthcare**
-
-Hospital-grade AI with regulatory compliance baked in.
-
-- **Architecture:** Graph RAG + Automated PII Anonymization
-- **Medical NLP:** BioBERT for entity recognition and matching
-- **Compliance:** HIPAA-certified deployment
-- **Impact:** Hospital chain scaling with confidence
-
----
-
-### 📚 [Multimodal Educational Platform](https://github.com/Shikhararyan)
-**Status:** Production | **10,000+ Active Users**
-
-First India deployment of Azure SQL vector search for education.
-
-- **Scale:** 10,000+ students across Australian infrastructure
-- **Uptime:** 99.7% reliability in production
-- **Features:** Image/video integration • Multimodal search • Intelligent recommendations
-- **Engagement:** 35% increase via speech integration
-
----
-
-### 🧬 [Medical Image Classification - Brain Tumor Detection](https://kaggle.com/shikhararyan)
-**Status:** Deployed | **94% Accuracy**
-
-Transfer learning approach with explainability.
-
-- **Model:** VGG19 transfer learning
-- **Accuracy:** 94% on brain tumor classification
-- **Explainability:** Grad-CAM visualization
-- **Deployment:** Kaggle competition participation
-
----
-
-### 🎬 [Collaborative Filtering Recommendation Engine](https://github.com/Shikhararyan)
-**Status:** Production | **Sub-second Inference**
-
-Scalable recommendations at scale.
-
-- **Algorithm:** Matrix Factorization + SVD + Cosine Similarity
-- **Scale:** 50K+ interactions
-- **Performance:** Sub-second inference time
-- **Use Case:** E-commerce, content recommendations
-
----
-
-### 💼 [nicheprofile.io](https://github.com/Shikhararyan/nicheprofile)
-**Status:** Live | **Next.js 14 Full-Stack SaaS**
-
-Production-grade platform built with modern stack.
-
-- **Frontend:** Next.js 14 • TypeScript • React
-- **Authentication:** NextAuth with complex security requirements
-- **Deployment:** Azure via Docker
-- **Debugging:** Resolved production issues (redirect loops, cookie poisoning, AUTH_TRUST_HOST)
-- **Status:** Live with ongoing optimization
-
----
-
-## 📚 Technical Writing & Thought Leadership
-
-Published on **Medium** with **16,000+ cumulative views** covering production AI systems.
-
-### Recent Articles
-
-- **["The Evolution of LLM Inference: Arctic Inference Revolution"](https://medium.com/@shikhararyan)** (Feb 2025)
-  - How inference optimization is reshaping production AI economics
-
-- **["Fine Tuning LLM Guide: From Dataset Curation to Production"](https://medium.com/@shikhararyan)** (Feb 2025)
-  - End-to-end workflow for production-grade fine-tuning at scale
-
-- **["Unlocking Azure SQL for Vector Databases: Revolutionizing RAG"](https://medium.com/@shikhararyan)** (Nov 2024)
-  - First-principles guide to Azure SQL vector search in production
-
-- **["Building Image Vector Stores for Multimodal RAG"](https://medium.com/@shikhararyan)** (Oct 2024)
-  - Practical implementation of multimodal retrieval systems
-
----
-
-## 🎓 Professional Background
-
-### Current Role
-**AI Engineer @ LetsAI Solutions** (Mar 2025 – Present)
-- Legal document automation at enterprise scale
-- LLM fine-tuning pipelines processing 6.5K+ cases
-- Long-context generation maintaining coherence across documents
-
-### Previous Role  
-**AI/ML Engineer @ Techoon Solutions** (Apr 2024 – Feb 2025)
-- Multimodal educational platform (10K+ users)
-- HIPAA-compliant healthcare AI systems
-- Performance optimization (60% throughput, 45% latency improvement)
-
-### Earlier Experience
-**Research Analyst @ Quaintel Research** (May 2023 – Oct 2023)
-- Market intelligence pipelines
-- Automated insight generation with OpenAI APIs
-- Data engineering at scale
-
-### Mentorship & Education
-**AI Mentor & Educator** (Jan 2023 – Present)
-- 50+ students mentored in: Data Science, ML, Deep Learning, NLP, Agentic AI, MCP
-- 1-on-1 sessions and group workshops
-- Educational content on advanced topics
-
-### Education
-**B.Tech Information Technology**  
-JSS Academy of Technical Education, Uttar Pradesh (Aug 2019 – May 2023)
-
----
-
-## 🎯 Domain Expertise Matrix
-
-| **Category** | **Expertise** |
-|---|---|
-| **RAG Architectures** | Graph RAG • Multimodal RAG • Long-Context (150+ pages) |
-| **Fine-Tuning** | QLoRA • Dataset Curation (6.5K+ examples) • LLM-as-Judge Evaluation |
-| **Regulated Domains** | HIPAA Compliance • Legal Document AI • Medical NLP (BioBERT) |
-| **Production Systems** | 99.7% Uptime • Load Balancing • Distributed Caching • MLOps |
-| **Vector Databases** | Azure SQL Vector • ChromaDB • Pinecone • MongoDB Atlas |
-| **LLM Models** | GPT-4o/o1 • Claude • Llama 3.1 • Gemini 2.5 |
-| **Multi-Agent Systems** | LangGraph • CrewAI • Complex Orchestration • MCP |
-| **Infrastructure** | FastAPI • Docker • Azure/AWS/GCP • CI/CD • Kubernetes |
-
----
-
-## 💬 What I'm Known For
-
-✅ **Building complete systems**, not just prototypes  
-✅ **Production deployments** with real users (10K+)  
-✅ **Advanced RAG architectures** (Graph, Multimodal, Long-context)  
-✅ **Fine-tuning expertise** with custom dataset curation  
-✅ **Working in regulated domains** (HIPAA, legal)  
-✅ **Technical writing** that explains complex systems clearly  
-✅ **Mentoring others** to think first-principles about AI  
-
----
-
-## 🔗 Let's Connect
-
-I'm always interested in discussing:
-- Production AI systems and architecture decisions
-- Fine-tuning strategies and dataset curation
-- RAG optimization (especially Graph RAG and multimodal)
-- Deploying AI in regulated domains (healthcare, legal)
-- MLOps and maintaining high-reliability systems
-- Building teams around AI/ML
+````md id="j8n4e2"
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Shikhar Aryan
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Generative+AI+Specialist;Building+Production-Grade+AI+Systems;Graph+RAG+%7C+Fine-Tuning+%7C+Multimodal+AI;LLMs+%7C+Healthcare+AI+%7C+Legal+Automation" />
+</p>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
-[![Medium](https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shikhararyan)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shikhararyan)
+![](https://komarev.com/ghpvc/?username=shikhararyan&style=for-the-badge&color=blueviolet)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@shikhararyan)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/shikhararyan)
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Shikhararyan0@gmail.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+# 🚀 About Me
+
+```python
+class ShikharAryan:
+
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.specialization = [
+            "Generative AI",
+            "Graph RAG",
+            "Multimodal AI",
+            "Fine-Tuning",
+            "Production AI Systems"
+        ]
+
+        self.current_focus = [
+            "Long-context LLM systems",
+            "AI agents",
+            "Healthcare AI",
+            "Legal AI automation"
+        ]
+
+        self.languages = ["Python", "SQL", "JavaScript"]
+        self.frameworks = ["PyTorch", "LangChain", "LangGraph", "FastAPI"]
+        self.vector_dbs = ["ChromaDB", "Pinecone", "Azure SQL Vector"]
+````
+
+📍 **Location:** Ghaziabad, India
+💼 **Current Role:** AI Engineer @ LetsAI Solutions
+🧠 **Domains:** Healthcare AI, Legal AI, Educational AI
+✍️ **Technical Writer:** 12,000+ views on Medium
+
+---
+
+# 🧠 What I Build
+
+## 🏥 Healthcare AI Systems
+
+* HIPAA-compliant Graph RAG systems
+* Automated PII anonymization
+* BioBERT-powered medical entity extraction
+* Intelligent patient-doctor matching
+
+### Stack
+
+`Graph RAG` • `BioBERT` • `NER` • `HIPAA` • `Medical AI`
+
+---
+
+## ⚖️ Legal AI Automation
+
+Built systems generating 150+ page immigration petitions in 45 minutes instead of 50+ hours manually.
+
+### Achievements
+
+* Fine-tuned Llama 3.1 8B using QLoRA
+* Trained on 6,500+ curated legal examples
+* Achieved 91% gap detection accuracy
+
+### Stack
+
+`LangGraph` • `QLoRA` • `Llama 3.1` • `Gemini 2.5` • `ChromaDB`
+
+---
+
+## 🎓 Educational AI Platform
+
+Built multimodal tutoring systems for 10K+ students with 99.7% uptime.
+
+### Features
+
+* Azure SQL Vector Search
+* Image & video integrated tutoring
+* Multimodal RAG
+* Production-grade deployment
+
+---
+
+# ⚡ Tech Stack
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shikhararyan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+## AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+## Databases & Vector Stores
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL_Vector-0078D4?style=for-the-badge\&logo=microsoftazure)
+
+## DevOps & Cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shikhararyan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikhararyan&layout=compact&langs_count=10&theme=radical&hide_border=true&count_private=true"/>
+
 </div>
 
 <div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhararyan&layout=compact&theme=dark&hide_border=true" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shikhararyan&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhararyan&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shikhararyan&theme=radical"/>
+
 </div>
 
 ---
 
-## 🚀 Current Focus
+# 🏆 GitHub Achievements
 
-Right now, I'm deep in:
+<div align="center">
 
-1. **Agentic AI Systems** - Multi-agent orchestration using LangGraph
-2. **Long-Context LLM Applications** - Pushing beyond traditional context windows
-3. **RAG Optimization** - Graph structures for intelligent retrieval
-4. **LLM Fine-Tuning at Scale** - From data curation to production inference
-5. **Regulatory AI** - Building systems that meet compliance requirements
+<img src="https://github-profile-trophy.vercel.app/?username=shikhararyan&theme=radical&no-frame=true&row=1&column=7"/>
+
+</div>
 
 ---
 
-## 💡 Quick Facts
+# 📝 Technical Writing
 
-- 🌍 **Location:** Ghaziabad, India
-- 💻 **Primary Languages:** Python, TypeScript, JavaScript
-- 🏗️ **Architecture:** Distributed systems, microservices, event-driven design
-- 📈 **Scaling:** Built systems serving 10K+ users with 99.7% uptime
-- 🔐 **Compliance:** HIPAA, legal document standards, enterprise security
-- 🎯 **Philosophy:** "Build systems that work in production, not just in notebooks"
+## Medium Articles
+
+* 🚀 The Evolution of LLM Inference
+* 🧠 Fine-Tuning LLMs for Production
+* ⚡ Azure SQL for Vector Search
+* 📸 Building Image Vector Stores for Multimodal RAG
+
+📖 Read more:
+👉 https://medium.com/@shikhararyan
+
+---
+
+# 🌟 Featured Projects
+
+## ⚖️ Legal Petition Gap Analysis
+
+Fine-tuned model trained on denied immigration petitions.
+
+### Impact
+
+* 91% accuracy
+* 98% reduction in review time
+
+---
+
+## 🏥 HIPAA-Compliant Medical RAG
+
+Graph RAG architecture with secure healthcare deployment.
+
+### Features
+
+* PII anonymization
+* Medical NER
+* Context-aware retrieval
+
+---
+
+## 🎓 Multimodal Educational AI
+
+AI tutoring platform integrating:
+
+* Images
+* Videos
+* Retrieval systems
+* Real-time tutoring
+
+### Scale
+
+* 10K+ students
+* 99.7% uptime
+
+---
+
+# 📈 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/shikhararyan/shikhararyan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🎓 Education
+
+🎓 **B.Tech in Information Technology**
+JSS Academy of Technical Education
+2019 — 2023
+
+---
+
+# 💼 Career Timeline
+
+## 🚀 LetsAI Solutions — AI Engineer
+
+**2025 — Present**
+
+* Legal AI systems
+* Fine-tuning pipelines
+* Production deployment
+
+---
+
+## 🧠 Techoon Solutions — AI/ML Engineer
+
+**2024 — 2025**
+
+* Healthcare AI
+* Educational AI
+* RAG systems
+
+---
+
+## 📊 Quaintel Research — Research Analyst
+
+**2023**
+
+* Data pipelines
+* Market intelligence
+* Analytics
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/shikhar-aryan-6aa98a1b4/)
+
+[![Medium](https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@shikhararyan)
+
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)](https://huggingface.co/shikhararyan)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, consider starring repos and following for updates!
-
-**Building AI systems that matter. One production deployment at a time.**
+### ⭐ Building AI systems that work in production, not just demos.
 
 </div>
+```
