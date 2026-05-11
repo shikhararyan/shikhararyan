@@ -18,7 +18,7 @@
 
 ## ⚡ The Numbers
 
-<div align="center">
+<div align="left">
 
 | Metric | Achievement |
 |:------:|:------------|
