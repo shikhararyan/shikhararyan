@@ -211,23 +211,23 @@ Production AI/ML Engineer | 2.5+ years
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│ 🎯 PRODUCTION AI ENGINEER                           │
+│ PRODUCTION AI ENGINEER                              │
 ├─────────────────────────────────────────────────────┤
 │                                                     │
-│ ✓ RAG Architectures                                │
-│   └─ Graph RAG • Multimodal • Long-context (150+p) │
+│ RAG Architectures                                   │
+│   └─ Graph RAG • Multimodal • Long-context (150+p)  │
 │                                                     │
-│ ✓ LLM Engineering                                   │
-│   └─ Fine-tuning • QLoRA • Dataset Curation        │
+│ LLM Engineering                                     │
+│   └─ Fine-tuning • QLoRA • Dataset Curation         │
 │                                                     │
-│ ✓ Regulated Domains                                │
-│   └─ HIPAA • Legal AI • Medical NLP                │
+│ Regulated Domains                                   │
+│   └─ HealthTech • LegalTech • EdTech                │
 │                                                     │
-│ ✓ Multi-Agent Systems                              │
-│   └─ LangGraph • CrewAI • Complex Orchestration    │
+│ Multi-Agent Systems                                 │
+│   └─ LangGraph • CrewAI • Complex Orchestration     │
 │                                                     │
-│ ✓ Production Systems                               │
-│   └─ 99.7% Uptime • Scaling to 10K+ users         │
+│ Production Systems                                  │
+│   └─ 99.7% Uptime • Scaling to 10K+ daily users     │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
