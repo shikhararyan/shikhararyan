@@ -19,7 +19,7 @@
 
 # 🚀 About Me
 
-python
+'''python
 class ShikharAryan:
 
     def __init__(self):
@@ -42,7 +42,7 @@ class ShikharAryan:
         self.languages = ["Python", "SQL", "JavaScript"]
         self.frameworks = ["PyTorch", "LangChain", "LangGraph", "FastAPI"]
         self.vector_dbs = ["ChromaDB", "Pinecone", "Azure SQL Vector"]
-
+'''
 
 📍 **Location:** Ghaziabad, India
 💼 **Current Role:** AI Engineer @ LetsAI Solutions
