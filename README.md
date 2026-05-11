@@ -236,19 +236,9 @@ Production AI/ML Engineer | 2.5+ years
 
 ---
 
-## 📈 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/shikhararyan/shikhararyan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
-<div align="center">
+<div align="left">
 
 ```
 2025 — Present    │  AI Engineer @ LetsAI Solutions
